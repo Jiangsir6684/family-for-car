@@ -1,2 +1,2 @@
-# family-for-car
-Beijing family points calculation for car
+# 北京汽车摇号家庭积分计算
+这个项目为家庭摇号积分计算所用，方便大家计算家庭摇号积分。如果问题请留言提出。
