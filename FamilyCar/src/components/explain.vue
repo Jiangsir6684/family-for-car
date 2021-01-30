@@ -1,6 +1,10 @@
 <template>
   <div class="explain">
-    <div class="message">积分说明</div>
+    <!-- <div class="message">积分说明</div> -->
+    <el-container>
+    <el-header class="message">积分说明</el-header>
+    <el-main>Main</el-main>
+  </el-container>
   </div>
 </template>
 
@@ -25,9 +29,9 @@ export default {
 
 <style scoped lang='less'>
 .explain{
-  background-color: rgb(48, 21, 202);
+   box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
   .message{
-    background-color: rgb(230, 39, 188);
+    background-color: #fff;
   }
 }
 </style>
